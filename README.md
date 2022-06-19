@@ -1,1 +1,13 @@
-# .github
+# DARGMINTS
+
+Natural language processing (NLP) received a strong push in the last decade, due to the abundance of web data, and leveraging advances on statistical machine learning. While many different NLP tasks have seen significant progress, issues like (a) handling figurative devices (e.g., irony or metaphor) in written text, or (b) document-level parsing of discourse and/or argumentation structures, remain significantly challenging.
+
+Discourse parsing requires understanding the communicative/argumentative roles of sentences or parts of a document, as well as their relationships. For that, typical features related to words and simple syntax cues are clearly insufficient, and mechanisms like understanding interactivity, coherence and thematic development are required. These difficulties motivate additional research towards building better representations for the text, that can then be explored by machine learning methods.
+
+Discourse parsing is closely related to argumentation mining from text, a challenge that only recently has come to the attention of NLP researchers. Many important challenges remain open, particularly if we consider text that are not essentially argumentative, related with existing heterogeneous argumentative styles. Argumentation involves a large and heterogeneous set of linguistic representations humans have at their disposal. Argumentation processes have been studied in diverse areas (e.g., philosophy, linguistics, or even artificial intelligence); on the other hand, NLP approaches for argumentation mining are relatively scarce in the literature, particularly for other languages besides English.
+
+This project proposes to study NLP/IE techniques for addressing the task of argument mining from text, focusing on the Portuguese language (for which there is no relevant prior work), considering sources such as (a) news articles, (b) parliamentary debate transcriptions, and (c) discussions in specific social network profiles. The development of an NLP pipeline for the Portuguese language will be carried on, leveraging recent advances in the area. This NLP pipeline will support more advanced tasks, related to document-level parsing of discourse and to mining argument structures, to be aligned with argumentation schemes and discourse theories.
+
+We envision the development of new interactive visualizations for exploring argumentation patterns and processes. Such visualizations will be the basis for building appealing applications, that resort to historical data (news, parliamentary debate or on-line discussion archives), in areas related with media studies, political science or forensics (e.g. identifying opinion makers, detecting fallacies or radicalization processes), as well as applications specifically tailored for researchers in applied linguistics.
+
+[Project Page](https://liacc.fe.up.pt/project/dargmints)
